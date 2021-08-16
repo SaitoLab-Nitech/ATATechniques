@@ -17,6 +17,7 @@ This is a project created with Android Studio. Please set up the latest version 
 3. In MainActivity.java, choose one of ata techniques by uncommenting one of lines starting with ```srcUntainted = ```
     - By default, ```srcUntainted = testTechnique(srcTainted);``` is active
 4. Execute it on an Android device by clicking "Run" on Android Studio
+    - You should grant app the permission READ_PHONE_STATE for accessing IMEI
     - We have tested apps on Nexus 4 with TaintDroid (4.3r1) and Zenfone 4 (Android 8.0.0)
 
 ## References
