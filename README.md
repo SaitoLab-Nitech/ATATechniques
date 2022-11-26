@@ -1,6 +1,6 @@
 # ATATechniques
 
-This is a test suite with anti-taint-analysis techniques discussed in our paper at [ARES 2021](https://www.ares-conference.eu/). Also, our journal paper has been published in August 2022, and we are preparing to open the new version of test suite used in the journal paper. **We will soon update this repository.**
+This is a test suite with anti-taint-analysis techniques discussed in our paper at [ARES 2021](https://www.ares-conference.eu/). Also, our journal paper has been published in August 2022, and we released another test suite used in the paper at [ATATechniques_SuspiciousValidationDetection](https://github.com/SaitoLab-Nitech/ATATechniques_SuspiciousValidationDetection).
 
 When you reference this work, please cite our paper by one of the following:
 
